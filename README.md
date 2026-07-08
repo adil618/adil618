@@ -240,11 +240,11 @@ Started career building responsive websites and web applications. Gained foundat
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adil618&show_icons=true&count_private=true&theme=tokyonight&bg_color=1a1b27&text_color=a0aec0&icon_color=667eea&title_color=667eea&border_color=667eea&hide_border=true&include_all_commits=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adil618&show_icons=true&count_private=true&theme=tokyonight&bg_color=1a1b27&text_color=a0aec0&icon_color=667eea&title_color=667eea&border_color=667eea&hide_border=true&include_all_commits=true)](https://github.com/adil618)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adil618&layout=compact&theme=tokyonight&bg_color=1a1b27&text_color=a0aec0&title_color=667eea&border_color=667eea&hide_border=true&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adil618&layout=compact&theme=tokyonight&bg_color=1a1b27&text_color=a0aec0&title_color=667eea&border_color=667eea&hide_border=true)](https://github.com/adil618)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adil618&theme=tokyonight&background=1a1b27&stroke=667eea&currStreakNum=a0aec0&currStreakLabel=667eea&sideNums=a0aec0&sideLabels=667eea&dates=a0aec0&border=667eea&ring=667eea&fire=667eea)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adil618&theme=tokyonight&background=1a1b27&stroke=667eea&currStreakNum=a0aec0&currStreakLabel=667eea&sideNums=a0aec0&sideLabels=667eea&dates=a0aec0&border=667eea&ring=667eea&fire=667eea)](https://github.com/adil618)
 
 </div>
 
@@ -254,7 +254,7 @@ Started career building responsive websites and web applications. Gained foundat
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adil618&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15&title_color=667eea&icon_color=667eea&text_color=a0aec0)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adil618&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6&title_color=667eea&icon_color=667eea&text_color=a0aec0)](https://github.com/adil618)
 
 </div>
 
@@ -264,7 +264,7 @@ Started career building responsive websites and web applications. Gained foundat
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adil618&theme=tokyonight&bg_color=1a1b27&point=667eea&line=667eea&area=true&area_color=667eea&custom_title=Adeel%20Adil%20Contribution%20Graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adil618&theme=tokyonight&bg_color=1a1b27&point=667eea&line=667eea&area=true&area_color=667eea)](https://github.com/adil618)
 
 </div>
 
@@ -274,13 +274,7 @@ Started career building responsive websites and web applications. Gained foundat
 
 <div align="center">
 
-![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/adil618/adil618/output/github-contribution-grid-snake-dark.svg)
-
-**_To enable the snake animation:_**
-1. Fork the [snake animation repo](https://github.com/Platane/snk)
-2. Create `.github/workflows/snake.yml` in your repo with the provided workflow
-3. Update `GITHUB_USER_CONTRIBUTIONS_OUTPUT_FILENAME` in the workflow
-4. Push changes to trigger the animation
+![GitHub Contribution Snake](https://github.com/adil618/adil618/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
