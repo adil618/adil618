@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 
-I'm a **Full Stack Software Engineer** specializing in building scalable, modern web applications with a strong focus on the MERN stack (MongoDB, Express.js, React.js, Node.js). With expertise in cloud architecture, DevOps practices, and emerging AI/ML technologies, I transform complex requirements into elegant, performant digital solutions.
+I'm a **Full Stack Software Engineer(MERN Stack)** specializing in building scalable, modern web applications with a strong focus on the MERN stack (MongoDB, Express.js, React.js, Node.js). With expertise in cloud architecture, DevOps practices, and emerging AI/ML technologies, I transform complex requirements into elegant, performant digital solutions.
 
 My engineering philosophy centers on **product thinking, code quality, and user-centric design**. I have a proven track record of architecting and deploying production-grade applications that serve millions of requests while maintaining sub-100ms response times. I'm passionate about open-source contributions and continuously exploring cutting-edge technologies in full-stack development, machine learning, and distributed systems.
 
